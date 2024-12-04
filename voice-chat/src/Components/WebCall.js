@@ -298,8 +298,8 @@ function WebCall({id}) {
       <div className='question-container'><h1 className='question-title'>Call in Progress..</h1></div>
       <div  style={{
                 margin:'30px auto',
-                width: '100px',    /* Adjust size as needed */
-                height: '100px',
+                width: '150px',    /* Adjust size as needed */
+                height: '150px',
                 borderRadius: '50%', /* Makes the div a circle */
                 border: '2px solid black', /* Optional: Border for visibility */
                 display: 'flex',
