@@ -9,7 +9,7 @@ const Retell = require('retell-sdk')
 
 // Use CORS middleware
 app.use(cors({
-    origin: 'https://birthday-two-gamma.vercel.app/webcall', // Replace with your frontend URL
+    origin: 'https://birthday-two-gamma.vercel.app', // Replace with your frontend URL
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type', 'Authorization']
   }));
