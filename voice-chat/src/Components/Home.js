@@ -248,9 +248,9 @@ function Home({handleDataFromChild}) {
     🎉 <span style={{ color: 'white', fontWeight: 'bold' }}>A Very Happy Birthday</span> 🎂  
     <span style={{ color: 'white'}}>to you from me!</span>  
     <br />  
-    <span style={{ color: '#fffae6'}}>We have someone special who wants to wish you.</span>  
+    <span style={{ color: '#fffae6'}}>We have someone else who wants to wish you.</span>  
     <br /><br />  
-    🌟 <span style={{fontSize: '14px'}}>It will be a call, so your engagement will make it memorable. Don’t worry, your conversation will be completely private.</span>  
+    🌟 <span style={{fontSize: '14px'}}>It will be a voice call, so your engagement will make it more exciting and funny. Don’t worry, your conversation will be completely private.</span>  
     <br /><br />  
     <span style={{ color: '#ffd700', fontWeight: 'bold' }}
     >Click the button below to start the magic!</span>  
